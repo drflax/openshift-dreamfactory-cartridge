@@ -1,5 +1,4 @@
 #!/bin/bash
-set -e
 
 # Check arguments
 if [ -z "${1}" ]; then
