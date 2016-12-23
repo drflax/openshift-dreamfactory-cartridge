@@ -1,5 +1,4 @@
 #!/bin/bash
-set -e
 
 export OPENSHIFT_PHP_DIR=${OPENSHIFT_NGINX_DIR}
 echo "${OPENSHIFT_PHP_DIR}" > env/OPENSHIFT_PHP_DIR
